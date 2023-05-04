@@ -1,2 +1,2 @@
 # Latihan-Pemrograman
-Latihan untuk menjadi Full Stack Developer
+Belajar GitHub
